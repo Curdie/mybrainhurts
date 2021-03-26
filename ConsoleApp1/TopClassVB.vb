@@ -1,8 +1,6 @@
 ﻿
 Partial Public Class TopClassVB
     Inherits ConsoleApp2.MiddleClass
-
-
 End Class
 
 Partial Public Class TopClassVB
