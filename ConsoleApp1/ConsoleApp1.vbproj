@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+  <TargetFrameWork>net48</TargetFrameWork>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleApp2\ConsoleApp2.csproj" />
+    <ProjectReference Include="..\ConsoleApp3\ConsoleApp3.csproj" />
+  </ItemGroup>
+</Project>
